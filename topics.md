@@ -46,6 +46,7 @@
     - CTAN
     - TUG
     - tex.stackexchange.com
+    - Tom Schneider's web page: <http://www.ccrnp.ncifcrf.gov/~toms/latex.html>
 
 
 - Journals that accept LaTeX submission
