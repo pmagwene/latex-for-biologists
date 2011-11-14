@@ -29,6 +29,7 @@
 
 - Topics of special interest to biologists and computational biologists
     - Sequence alignments with TeXshade
+    - TeXtopo
     - Phylogenetic trees with newicktree
     - 2D molecules and chemical equations with chemfig
     - Syntax highlighting code fragments with listings and minted
